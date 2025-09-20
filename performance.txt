@@ -1,0 +1,2 @@
+Tiempo promedio entre eventos: .002000s
+Tiempo entre eventos: 2s
